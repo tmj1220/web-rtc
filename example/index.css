@@ -1,0 +1,36 @@
+@import "antd/dist/antd.min.css";
+
+.theme {
+    background: #fff;
+}
+
+.local-video {
+    width: 500px;
+    height: 300px;
+}
+
+.remote-video {
+    width: 200px;
+    background-color: #fff;
+}
+
+textarea {
+    resize: none;
+}
+
+.login {
+    background-image: url("https://static.rokidcdn.com/website/air/3.1.0/main-banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.login-container {
+    width: 500px;
+    height: 200px;
+    margin: 200px auto;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px 40px;
+    text-align: center;
+}

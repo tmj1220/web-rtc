@@ -1,0 +1,17 @@
+node_modules/
+
+dist/
+
+lib/
+
+device/
+
+coverage/
+
+yarn.lock
+
+
+.idea/
+
+
+*.tgz

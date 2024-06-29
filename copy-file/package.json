@@ -1,0 +1,9 @@
+{
+  "name": "rokid-rtc-sdk",
+  "version": "4.7.3",
+  "description": "Rokid Web RTC SDK",
+  "main": "index.js",
+  "author": "cb",
+  "license": "ISC",
+  "dependencies": {}
+}
